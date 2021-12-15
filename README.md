@@ -1,2 +1,2 @@
 # Mriver
-Monsy streaming protocol inspired by Sablier (solana, rust)
+Money streaming protocol inspired by Sablier (solana, rust)
